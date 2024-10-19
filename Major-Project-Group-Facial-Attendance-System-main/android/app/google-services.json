@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292243415871",
+    "project_id": "aifacerecognition-a3223",
+    "storage_bucket": "aifacerecognition-a3223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292243415871:android:8000f89a8344f20686a98a",
+        "android_client_info": {
+          "package_name": "com.example.stat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZ5IcK0BnEgjgMFUWZk5BeliYy1gnM6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
